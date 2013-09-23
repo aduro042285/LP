@@ -1,0 +1,44 @@
+#container{
+width:950px;
+    height:250px;
+}
+
+#list-container {
+overflow:hidden;    
+width: 850px;  
+float:left;    
+}
+
+.list{
+    background:grey;
+    width:900px;
+    height:200px;
+    float:left;
+}
+
+
+#arrowR{
+background:yellow;
+    width:50px;
+    height:200px;
+    float:right;
+    cursor:pointer;
+}
+
+
+#arrowL{
+background:yellow;
+    width:50px;
+    height:200px;
+    float:left;
+    cursor:pointer;
+}
+
+.item{
+    background:green;
+    width:200px;
+    height:200px;
+    margin:5px;
+    float:left;
+    position:relative;
+}
